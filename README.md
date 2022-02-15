@@ -49,7 +49,7 @@ _El grupo telegram puedes omitirlo si no vas a usar grupo telegram_
 ## Deploy a Heroku,Configurar las variables  y Activar Free dynos
 - Dale click ene este boton 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cinedriveonline/Unidadclonebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chidochi/Unidadclonebot.git)
 
 
 - Ponle un nombre y Configura las variables con los datos anteriores
